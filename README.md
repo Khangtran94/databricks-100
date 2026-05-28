@@ -10,7 +10,7 @@ Go through each category. Be honest: can you explain each concept to a colleague
 
 Easy = what you should know after month one. Medium = solid mid-level knowledge. Hard = senior-level depth. All concepts reflect 2026 Databricks best practices.
 
-> Built by [dataengineer.wiki](https://dataengineer.wiki) - cheat sheets, exercises, labs, and career tools for Databricks data engineers.
+> Built by [dataengineer.wiki](https://dataengineer.wiki?utm_source=github&utm_medium=readme&utm_campaign=databricks-100) - cheat sheets, exercises, labs, and career tools for Databricks data engineers.
 
 ---
 
@@ -252,9 +252,9 @@ Senior-level decisions. Understanding tradeoffs, designing systems, managing com
 | Resource | What It Covers | Link |
 |----------|---------------|------|
 | **DataDojo** | 633+ practice exercises across all categories | [dojo.dataengineer.wiki](https://dojo.dataengineer.wiki) |
-| **Data Engineer Wiki** | Cheat sheets, learning paths, cert prep guides | [dataengineer.wiki](https://dataengineer.wiki) |
+| **Data Engineer Wiki** | Cheat sheets, learning paths, cert prep guides | [dataengineer.wiki](https://dataengineer.wiki?utm_source=github&utm_medium=readme&utm_campaign=databricks-100) |
 | **Hands-On Labs** | Production-grade Databricks labs on GitHub | [GitHub Labs](https://github.com/topics/databricks-lab) |
-| **Interview Cheat Sheet** | 86 senior-level Databricks interview Q&A | [dataengineer.wiki/cheat-sheet-senior](https://dataengineer.wiki/cheat-sheet-senior) |
+| **Interview Cheat Sheet** | 86 senior-level Databricks interview Q&A | [dataengineer.wiki/products/interview-kit-senior](https://dataengineer.wiki/products/interview-kit-senior?utm_source=github&utm_medium=readme&utm_campaign=databricks-100) |
 | **Databricks Academy** | Official free courses | [academy.databricks.com](https://academy.databricks.com) |
 | **Databricks Docs** | Official reference | [docs.databricks.com](https://docs.databricks.com) |
 
@@ -280,7 +280,7 @@ Both. The Associate covers roughly 60 of the 100. The Professional covers all 10
 No. Most engineers have gaps they don't know about. That's the point of this list. Focus on the Easy concepts first, re-score in 3 months.
 
 **Can I use this for interview prep?**
-Yes. These concepts appear in real Databricks data engineering interviews. The [Interview Cheat Sheet](https://dataengineer.wiki/cheat-sheet-senior) has detailed answers for the most common questions.
+Yes. These concepts appear in real Databricks data engineering interviews. The [Interview Cheat Sheet](https://dataengineer.wiki/products/interview-kit-senior?utm_source=github&utm_medium=readme&utm_campaign=databricks-100) has detailed answers for the most common questions.
 
 **Something is outdated or wrong.**
 Open an issue. Databricks evolves fast. This list reflects 2026 best practices (Liquid Clustering over Z-ORDER, Lakeflow Declarative Pipelines over DLT, serverless as default, Predictive Optimization, etc.). We update when the platform changes.
@@ -295,4 +295,4 @@ MIT License. Use it, share it, fork it.
 
 **Ready to start? Fork the repo, pick concept #1, and post your first #100DaysOfDatabricks on LinkedIn.**
 
-Built and maintained by [dataengineer.wiki](https://dataengineer.wiki).
+Built and maintained by [dataengineer.wiki](https://dataengineer.wiki?utm_source=github&utm_medium=readme&utm_campaign=databricks-100).
